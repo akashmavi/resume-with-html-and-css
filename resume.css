@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    margin: 0%;
+    background: linear-gradient(blue, pink);
+}
+.blue{
+    background-color: blue;
+    text-align: center;
+    color: blueviolet
+}
+.body{
+    background-color: pink;
+}
